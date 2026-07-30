@@ -1,5 +1,5 @@
 # 🛡️ AI Security WAF
-
+<img width="1330" height="756" alt="waf-demo png" src="https://github.com/user-attachments/assets/921e296c-8fb0-4201-8823-a7ac54f4963d" />
 A real-time AI-powered Web Application Firewall that detects and blocks malicious payloads including SQL injection, XSS, command injection, and LLM-specific attacks like prompt injection and jailbreaks.
 
 ## Features
@@ -42,4 +42,4 @@ git clone https://github.com/iqrazulfiqar7373-coder/ai-security-waf.git
 cd ai-security-waf
 npm install
 npm run dev
-<img width="1330" height="756" alt="waf-demo png" src="https://github.com/user-attachments/assets/921e296c-8fb0-4201-8823-a7ac54f4963d" />
+
